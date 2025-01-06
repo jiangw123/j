@@ -1,300 +1,156 @@
-#EXTINF:-1,测试
-rtsp://115.153.233.154/PLTV/88888888/224/3221226650/53190437.smil
-#EXTINF:-1,龙翔时代
-http://113.86.206.78:9999/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,天映经典
-http://113.86.206.78:9999/tsfile/live/1051_1.m3u8?key=txiptv&playlive=1&authid=0
-
-#EXTM3U
-#EXTINF:-1 group-title="谷豆",CCTV4K
-http://192.168.5.1:5678/gd.php?id=cctv4k
-#EXTINF:-1 group-title="谷豆",CCTV16-4K
-http://192.168.5.1:5678/gd.php?id=cctv164k
-#EXTINF:-1 group-title="谷豆",广东综艺4K
-http://192.168.5.1:5678/gd.php?id=gdzy4k
-#EXTINF:-1 group-title="谷豆",G导视高清
-http://192.168.5.1:5678/gd.php?id=gdds
-#EXTINF:-1 group-title="谷豆",翡翠台
-http://192.168.5.1:5678/gd.php?id=fcthd
-#EXTINF:-1 group-title="谷豆",明珠台
-http://192.168.5.1:5678/gd.php?id=mzthd
-#EXTINF:-1 group-title="谷豆",澳视澳门
-http://192.168.5.1:5678/gd.php?id=asam
-#EXTINF:-1 group-title="谷豆",凤凰中文.576
-http://192.168.5.1:5678/gd.php?id=fhzw
-#EXTINF:-1 group-title="谷豆",星空卫视.576
-http://192.168.5.1:5678/gd.php?id=xkws
-#EXTINF:-1 group-title="谷豆",澳亚卫视.576
-http://192.168.5.1:5678/gd.php?id=ayws
-#EXTINF:-1,重温经典
-http://192.168.5.1:5678/gd.php?id=cwjd
-#EXTINF:-1 group-title="谷豆",CCTV1
-http://192.168.5.1:5678/gd.php?id=cctv1hd
-#EXTINF:-1 group-title="谷豆",CCTV2
-http://192.168.5.1:5678/gd.php?id=cctv2hd
-#EXTINF:-1 group-title="谷豆",CCTV3
-http://192.168.5.1:5678/gd.php?id=cctv3hd
-#EXTINF:-1 group-title="谷豆",CCTV4
-http://192.168.5.1:5678/gd.php?id=cctv4hd
-#EXTINF:-1 group-title="谷豆",CCTV5
-http://192.168.5.1:5678/gd.php?id=cctv5hd
-#EXTINF:-1 group-title="谷豆",CCTV5+
-http://192.168.5.1:5678/gd.php?id=cctv5phd
-#EXTINF:-1 group-title="谷豆",CCTV6
-http://192.168.5.1:5678/gd.php?id=cctv6hd
-#EXTINF:-1 group-title="谷豆",CCTV7
-http://192.168.5.1:5678/gd.php?id=cctv7hd
-#EXTINF:-1 group-title="谷豆",CCTV8
-http://192.168.5.1:5678/gd.php?id=cctv8hd
-#EXTINF:-1 group-title="谷豆",CCTV9
-http://192.168.5.1:5678/gd.php?id=cctv9hd
-#EXTINF:-1 group-title="谷豆",CCTV10
-http://192.168.5.1:5678/gd.php?id=cctv10hd
-#EXTINF:-1 group-title="谷豆",CCTV11
-http://192.168.5.1:5678/gd.php?id=cctv11hd
-#EXTINF:-1 group-title="谷豆",CCTV12
-http://192.168.5.1:5678/gd.php?id=cctv12hd
-#EXTINF:-1 group-title="谷豆",CCTV13
-http://192.168.5.1:5678/gd.php?id=cctv13hd
-#EXTINF:-1 group-title="谷豆",CCTV14
-http://192.168.5.1:5678/gd.php?id=cctv14hd
-#EXTINF:-1 group-title="谷豆",CCTV15
-http://192.168.5.1:5678/gd.php?id=cctv15hd
-#EXTINF:-1 group-title="谷豆",CCTV16
-http://192.168.5.1:5678/gd.php?id=cctv16hd
-#EXTINF:-1 group-title="谷豆",CCTV17
-http://192.168.5.1:5678/gd.php?id=cctv17hd
-#EXTINF:-1 group-title="谷豆",甘肃卫视
-http://192.168.5.1:5678/gd.php?id=gsws
-#EXTINF:-1 group-title="谷豆",广东卫视
-http://192.168.5.1:5678/gd.php?id=gdhd
-#EXTINF:-1 group-title="谷豆",深圳卫视
-http://192.168.5.1:5678/gd.php?id=szhd
-#EXTINF:-1 group-title="谷豆",东方卫视
-http://192.168.5.1:5678/gd.php?id=dfhd
-#EXTINF:-1 group-title="谷豆",北京卫视
-http://192.168.5.1:5678/gd.php?id=bjhd
-#EXTINF:-1 group-title="谷豆",湖南卫视
-http://192.168.5.1:5678/gd.php?id=hunhd
-#EXTINF:-1 group-title="谷豆",江西卫视
-http://192.168.5.1:5678/gd.php?id=jxhd
-#EXTINF:-1 group-title="谷豆",四川卫视
-http://192.168.5.1:5678/gd.php?id=schd
-#EXTINF:-1 group-title="谷豆",江苏卫视
-http://192.168.5.1:5678/gd.php?id=jshd
-#EXTINF:-1 group-title="谷豆",浙江卫视
-http://192.168.5.1:5678/gd.php?id=zjhd
-#EXTINF:-1 group-title="谷豆",天津卫视
-http://192.168.5.1:5678/gd.php?id=tjhd
-#EXTINF:-1 group-title="谷豆",河北卫视
-http://192.168.5.1:5678/gd.php?id=hbhd
-#EXTINF:-1 group-title="谷豆",重庆卫视
-http://192.168.5.1:5678/gd.php?id=cqhd
-#EXTINF:-1 group-title="谷豆",贵州卫视
-http://192.168.5.1:5678/gd.php?id=gzhd
-#EXTINF:-1 group-title="谷豆",辽宁卫视
-http://192.168.5.1:5678/gd.php?id=lnhd
-#EXTINF:-1 group-title="谷豆",湖北卫视
-http://192.168.5.1:5678/gd.php?id=hubhd
-#EXTINF:-1 group-title="谷豆",安徽卫视
-http://192.168.5.1:5678/gd.php?id=ahhd
-#EXTINF:-1 group-title="谷豆",黑龙江卫视
-http://192.168.5.1:5678/gd.php?id=hljhd
-#EXTINF:-1 group-title="谷豆",吉林卫视
-http://192.168.5.1:5678/gd.php?id=jlhd
-#EXTINF:-1 group-title="谷豆",海南卫视
-http://192.168.5.1:5678/gd.php?id=hnhd
-#EXTINF:-1 group-title="谷豆",三沙卫视
-http://192.168.5.1:5678/gd.php?id=sshd
-#EXTINF:-1 group-title="谷豆",陕西卫视
-http://192.168.5.1:5678/gd.php?id=sxhd
-#EXTINF:-1 group-title="谷豆",东南卫视
-http://192.168.5.1:5678/gd.php?id=dnhd
-#EXTINF:-1 group-title="谷豆",山东卫视
-http://192.168.5.1:5678/gd.php?id=sdhd
-#EXTINF:-1 group-title="谷豆",河南卫视
-http://192.168.5.1:5678/gd.php?id=hnhd
-#EXTINF:-1 group-title="谷豆",广西卫视
-http://192.168.5.1:5678/gd.php?id=gxhd
-#EXTINF:-1 group-title="谷豆",梨园频道
-http://192.168.5.1:5678/gd.php?id=lypd
-#EXTINF:-1 group-title="谷豆",武术世界
-http://192.168.5.1:5678/gd.php?id=wssj
-#EXTINF:-1 group-title="谷豆",文物宝库
-http://192.168.5.1:5678/gd.php?id=wwbk
-#EXTINF:-1 group-title="谷豆",金色学堂
-http://192.168.5.1:5678/gd.php?id=jsxt
-#EXTINF:-1 group-title="谷豆",东方财经
-http://192.168.5.1:5678/gd.php?id=dfcj
-#EXTINF:-1 group-title="谷豆",CHC高清电影
-http://192.168.5.1:5678/gd.php?id=chcgq
-#EXTINF:-1 group-title="谷豆",都市剧场
-http://192.168.5.1:5678/gd.php?id=dsjc
-#EXTINF:-1 group-title="谷豆",乐游
-http://192.168.5.1:5678/gd.php?id=lyhd
-#EXTINF:-1 group-title="谷豆",求索纪录
-http://192.168.5.1:5678/gd.php?id=qsjl
-#EXTINF:-1 group-title="谷豆",求索科学
-http://192.168.5.1:5678/gd.php?id=qskx
-#EXTINF:-1 group-title="谷豆",求索动物
-http://192.168.5.1:5678/gd.php?id=qsdw
-#EXTINF:-1 group-title="谷豆",求索生活
-http://192.168.5.1:5678/gd.php?id=qssh
-#EXTINF:-1 group-title="谷豆",魅力足球
-http://192.168.5.1:5678/gd.php?id=mlzq
-#EXTINF:-1 group-title="谷豆",劲爆体育
-http://192.168.5.1:5678/gd.php?id=jbty
-#EXTINF:-1 group-title="谷豆",新视觉
-http://192.168.5.1:5678/gd.php?id=xsj
-#EXTINF:-1 group-title="谷豆",游戏风云
-http://192.168.5.1:5678/gd.php?id=yxfyhd
-#EXTINF:-1 group-title="谷豆",广东珠江
-http://192.168.5.1:5678/gd.php?id=gdzj
-#EXTINF:-1 group-title="谷豆",广东体育
-http://192.168.5.1:5678/gd.php?id=gdtyhd
-#EXTINF:-1 group-title="谷豆",广东新闻
-http://192.168.5.1:5678/gd.php?id=gdxw
-#EXTINF:-1 group-title="谷豆",广东民生
-http://192.168.5.1:5678/gd.php?id=gdms
-#EXTINF:-1 group-title="谷豆",广东经济科教
-http://192.168.5.1:5678/gd.php?id=gdjjkjhd
-#EXTINF:-1 group-title="谷豆",大湾区卫视
-http://192.168.5.1:5678/gd.php?id=dwqws
-#EXTINF:-1 group-title="谷豆",广东影视
-http://192.168.5.1:5678/gd.php?id=gdys
-#EXTINF:-1 group-title="谷豆",嘉佳卡通
-http://192.168.5.1:5678/gd.php?id=jjkt
-#EXTINF:-1 group-title="谷豆",广东少儿
-http://192.168.5.1:5678/gd.php?id=gdse
-#EXTINF:-1 group-title="谷豆",岭南戏曲
-http://192.168.5.1:5678/gd.php?id=lnxq
-#EXTINF:-1 group-title="谷豆",广州综合
-http://192.168.5.1:5678/gd.php?id=gzzh
-#EXTINF:-1 group-title="谷豆",广州新闻
-http://192.168.5.1:5678/gd.php?id=gzxw
-#EXTINF:-1 group-title="谷豆",广州影视
-http://192.168.5.1:5678/gd.php?id=gzys
-#EXTINF:-1 group-title="谷豆",广州竞赛
-http://192.168.5.1:5678/gd.php?id=gzjs
-#EXTINF:-1 group-title="谷豆",广州法治.576
-http://192.168.5.1:5678/gd.php?id=gzfz
-#EXTINF:-1 group-title="谷豆",增城台
-http://192.168.5.1:5678/gd.php?id=zctv
-#EXTINF:-1 group-title="谷豆",东莞新闻综合
-http://192.168.5.1:5678/gd.php?id=dg1hd
-#EXTINF:-1 group-title="谷豆",东莞生活资讯
-http://192.168.5.1:5678/gd.php?id=dg2hd
-#EXTINF:-1 group-title="谷豆",佛山综合
-http://192.168.5.1:5678/gd.php?id=fszhhd
-#EXTINF:-1 group-title="谷豆",佛山公共
-http://192.168.5.1:5678/gd.php?id=fsgghd
-#EXTINF:-1 group-title="谷豆",佛山影视
-http://192.168.5.1:5678/gd.php?id=fsys
-#EXTINF:-1 group-title="谷豆",南海综合
-http://192.168.5.1:5678/gd.php?id=nhzh
-#EXTINF:-1 group-title="谷豆",顺德综合
-http://192.168.5.1:5678/gd.php?id=sdzh
-#EXTINF:-1 group-title="谷豆",珠海1
-http://192.168.5.1:5678/gd.php?id=zh1hd
-#EXTINF:-1 group-title="谷豆",珠海2
-http://192.168.5.1:5678/gd.php?id=zh2hd
-#EXTINF:-1 group-title="谷豆",斗门融媒
-http://192.168.5.1:5678/gd.php?id=dmrm
-#EXTINF:-1 group-title="谷豆",惠州1
-http://192.168.5.1:5678/gd.php?id=hz1hd
-#EXTINF:-1 group-title="谷豆",惠州2
-http://192.168.5.1:5678/gd.php?id=hz2hd
-#EXTINF:-1 group-title="谷豆",博罗综合
-http://192.168.5.1:5678/gd.php?id=blzhhd
-#EXTINF:-1 group-title="谷豆",惠东综合
-http://192.168.5.1:5678/gd.php?id=hdzh
-#EXTINF:-1 group-title="谷豆",惠阳台.576
-http://192.168.5.1:5678/gd.php?id=hyzh
-#EXTINF:-1 group-title="谷豆",潮州综合
-http://192.168.5.1:5678/gd.php?id=czzh
-#EXTINF:-1 group-title="谷豆",潮州民生
-http://192.168.5.1:5678/gd.php?id=czms
-#EXTINF:-1 group-title="谷豆",潮安综合
-http://192.168.5.1:5678/gd.php?id=cazh
-#EXTINF:-1 group-title="谷豆",饶平台
-http://192.168.5.1:5678/gd.php?id=rpzh
-#EXTINF:-1 group-title="谷豆",汕头综合
-http://192.168.5.1:5678/gd.php?id=stxwzh2
-#EXTINF:-1 group-title="谷豆",汕头经济生活
-http://192.168.5.1:5678/gd.php?id=stzjsh2
-#EXTINF:-1 group-title="谷豆",汕头文旅体育
-http://192.168.5.1:5678/gd.php?id=stwlty2
-#EXTINF:-1 group-title="谷豆",揭阳综合
-http://192.168.5.1:5678/gd.php?id=jyzhhd
-#EXTINF:-1 group-title="谷豆",揭阳生活
-http://192.168.5.1:5678/gd.php?id=jyshhd
-#EXTINF:-1 group-title="谷豆",揭东综合.576
-http://192.168.5.1:5678/gd.php?id=jdzh
-#EXTINF:-1 group-title="谷豆",中山综合
-http://192.168.5.1:5678/gd.php?id=zszhhd
-#EXTINF:-1 group-title="谷豆",中山香山文化
-http://192.168.5.1:5678/gd.php?id=zsxswhhd
-#EXTINF:-1 group-title="谷豆",中山教育
-http://192.168.5.1:5678/gd.php?id=zsjy
-#EXTINF:-1 group-title="谷豆",江门综合
-http://192.168.5.1:5678/gd.php?id=jmzhhd
-#EXTINF:-1 group-title="谷豆",江门侨乡生活.576
-http://192.168.5.1:5678/gd.php?id=jmqxsh
-#EXTINF:-1 group-title="谷豆",鹤山综合
-http://192.168.5.1:5678/gd.php?id=hszh
-#EXTINF:-1 group-title="谷豆",新会综合.576
-http://192.168.5.1:5678/gd.php?id=xhzh
-#EXTINF:-1 group-title="谷豆",梅州1
-http://192.168.5.1:5678/gd.php?id=mz1
-#EXTINF:-1 group-title="谷豆",梅州2
-http://192.168.5.1:5678/gd.php?id=mz2
-#EXTINF:-1 group-title="谷豆",梅州导视
-http://192.168.5.1:5678/gd.php?id=mzds
-#EXTINF:-1 group-title="谷豆",梅县综合
-http://192.168.5.1:5678/gd.php?id=mxzh
-#EXTINF:-1 group-title="谷豆",平远综合
-http://192.168.5.1:5678/gd.php?id=py1
-#EXTINF:-1 group-title="谷豆",五华台.576
-http://192.168.5.1:5678/gd.php?id=whzh
-#EXTINF:-1 group-title="谷豆",兴宁台.576
-http://192.168.5.1:5678/gd.php?id=xnzh
-#EXTINF:-1 group-title="谷豆",茂名综合
-http://192.168.5.1:5678/gd.php?id=mmzh
-#EXTINF:-1 group-title="谷豆",茂名文化生活
-http://192.168.5.1:5678/gd.php?id=mmwhsh2
-#EXTINF:-1 group-title="谷豆",信宜台
-http://192.168.5.1:5678/gd.php?id=xyzh
-#EXTINF:-1 group-title="谷豆",化州综合.360
-http://192.168.5.1:5678/gd.php?id=hzzh
-#EXTINF:-1 group-title="谷豆",云浮综合
-http://192.168.5.1:5678/gd.php?id=yunfuzongheHD_4500
-#EXTINF:-1 group-title="谷豆",云浮文旅.576
-http://192.168.5.1:5678/gd.php?id=yunfuertao_1500
-#EXTINF:-1 group-title="谷豆",河源综合
-http://192.168.5.1:5678/gd.php?id=hyzh
-#EXTINF:-1 group-title="谷豆",河源公共.576
-http://192.168.5.1:5678/gd.php?id=yfwl
-#EXTINF:-1 group-title="谷豆",清远新闻综合
-http://192.168.5.1:5678/gd.php?id=qyxwzhhd
-#EXTINF:-1 group-title="谷豆",清远文旅生活
-http://192.168.5.1:5678/gd.php?id=qywlshhd
-#EXTINF:-1 group-title="谷豆",佛冈综合.576
-http://192.168.5.1:5678/gd.php?id=fgzh
-#EXTINF:-1 group-title="谷豆",英德综合.360
-http://192.168.5.1:5678/gd.php?id=ydzh
-#EXTINF:-1 group-title="谷豆",汕尾新闻综合
-http://192.168.5.1:5678/gd.php?id=swxwzh
-#EXTINF:-1 group-title="谷豆",汕尾文化生活
-http://192.168.5.1:5678/gd.php?id=swwhsh
-#EXTINF:-1 group-title="谷豆",韶关新闻综合.576
-http://192.168.5.1:5678/gd.php?id=sgzh
-#EXTINF:-1 group-title="谷豆",韶关绿色生活.576
-http://192.168.5.1:5678/gd.php?id=sglssh
-#EXTINF:-1 group-title="谷豆",始兴综合.576
-http://192.168.5.1:5678/gd.php?id=sgsx
-#EXTINF:-1 group-title="谷豆",肇庆综合.576
-http://192.168.5.1:5678/gd.php?id=zqzh
-#EXTINF:-1 group-title="谷豆",肇庆生活服务.576
-http://192.168.5.1:5678/gd.php?id=zqshfw
-#EXTINF:-1 group-title="谷豆",怀集综合.576
-http://192.168.5.1:5678/gd.php?id=hjzh
+#EXTINF:0,♥ FreshPorno 1 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656839
+#EXTINF:0,♥ FreshPorno 2 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656840
+#EXTINF:0,♥ FreshPorno 3 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656841
+#EXTINF:0,♥ FreshPorno 4 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656842
+#EXTINF:0,♥ FreshPorno 5 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656843
+#EXTINF:0,♥ FreshPorno 6 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656844
+#EXTINF:0,♥ FreshPorno 7 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656845
+#EXTINF:0,♥ FreshPorno 8 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656846
+#EXTINF:0,♥ FreshPorno 9 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656847
+#EXTINF:0,♥ FreshPorno 10 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656848
+#EXTINF:0,♥ FreshPorno 11 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656849
+#EXTINF:0,♥ FreshPorno 13 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656850
+#EXTINF:0,♥ FreshPorno 14 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656851
+#EXTINF:0,♥ FreshPorno 15 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656852
+#EXTINF:0,♥ FreshPorno 16 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656853
+#EXTINF:0,♥ OnexXx ZZ Premiere 1 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656855
+#EXTINF:0,♥ OnexXx ZZ Premiere 2 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656856
+#EXTINF:0,♥ OnexXx ZZ Premiere 3 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656857
+#EXTINF:0,♥ OnexXx ZZ Premiere 4 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656858
+#EXTINF:0,♥ OnexXx ZZ Premiere 5 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656873
+#EXTINF:0,♥ OnexXx ZZ Premiere 6 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656859
+#EXTINF:0,♥ OnexXx ZZ Premiere 7 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656860
+#EXTINF:0,♥ OnexXx ZZ Premiere 8 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656861
+#EXTINF:0,♥ OnexXx ZZ Premiere 9 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656862
+#EXTINF:0,♥ OnexXx ZZ Premiere 10 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656863
+#EXTINF:0,♥ OnexXx ZZ Premiere 11 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656864
+#EXTINF:0,♥ OnexXx ZZ Premiere 12 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656865
+#EXTINF:0,♥ OnexXx ZZ Premiere 13 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656866
+#EXTINF:0,♥ OnexXx ZZ Premiere 14 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656867
+#EXTINF:0,♥ OnexXx ZZ Premiere 15 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656868
+#EXTINF:0,♥ OnexXx ZZ Premiere 16 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656869
+#EXTINF:0,♥ OnexXx ZZ Premiere 17 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656870
+#EXTINF:0,♥ OnexXx ZZ Premiere 18 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656871
+#EXTINF:0,♥ OnexXx ZZ Premiere 19 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656872
+#EXTINF:0,♥ OnexXx ZZ Premiere info ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656854
+#EXTINF:0,♥ OnexXxPlay Adult Time ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656891
+#EXTINF:0,♥ OnexXxPlay Anal Only ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656903
+#EXTINF:0,♥ OnexXxPlay babesTV ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656892
+#EXTINF:0,♥ OnexXxPlay BangBros 1 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656879
+#EXTINF:0,♥ OnexXxPlay BangBros 2 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656880
+#EXTINF:0,♥ OnexXxPlay Blacked! ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656885
+#EXTINF:0,♥ OnexXxPlay BlackedRaw! ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656886
+#EXTINF:0,♥ OnexXxPlay BrattySis ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656899
+#EXTINF:0,♥ OnexXxPlay Brazzers 1 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656874
+#EXTINF:0,♥ OnexXxPlay Brazzers 2 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656875
+#EXTINF:0,♥ OnexXxPlay Brazzers 3 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656876
+#EXTINF:0,♥ OnexXxPlay Deeper! ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656884
+#EXTINF:0,♥ OnexXxPlay DP 1 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656881
+#EXTINF:0,♥ OnexXxPlay DP 2 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656882
+#EXTINF:0,♥ OnexXxPlay EvilAngel ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656908
+#EXTINF:0,♥ OnexXxPlay Fake Hostel ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656897
+#EXTINF:0,♥ OnexXxPlay Fake Hub ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656895
+#EXTINF:0,♥ OnexXxPlay Fake Taxi ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656896
+#EXTINF:0,♥ OnexXxPlay Hard X ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656910
+#EXTINF:0,♥ OnexXxPlay JulesJordan ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656889
+#EXTINF:0,♥ OnexXxPlay Lesbians ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656905
+#EXTINF:0,♥ OnexXxPlay Massaged ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656906
+#EXTINF:0,♥ OnexXxPlay Mofos 1 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656887
+#EXTINF:0,♥ OnexXxPlay Mofos 2 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656888
+#EXTINF:0,♥ OnexXxPlay MYLF ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656890
+#EXTINF:0,♥ OnexXxPlay NughtyAmerica ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656911
+#EXTINF:0,♥ OnexXxPlay Nympho ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656904
+#EXTINF:0,♥ OnexXxPlay PervMom ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656894
+#EXTINF:0,♥ OnexXxPlay PropertySex ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656912
+#EXTINF:0,♥ OnexXxPlay PureTaboo ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656901
+#EXTINF:0,♥ OnexXxPlay RealityJunkies ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656913
+#EXTINF:0,♥ OnexXxPlay RealityKings 1 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656877
+#EXTINF:0,♥ OnexXxPlay RealityKings 2 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656878
+#EXTINF:0,♥ OnexXxPlay Serie 1 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656915
+#EXTINF:0,♥ OnexXxPlay Serie 2 ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656916
+#EXTINF:0,♥ OnexXxPlay SinfulRaw ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656909
+#EXTINF:0,♥ OnexXxPlay SisLovesMe ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656898
+#EXTINF:0,♥ OnexXxPlay SweetSinner ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656914
+#EXTINF:0,♥ OnexXxPlay TeamSkeet ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656893
+#EXTINF:0,♥ OnexXxPlay TrueAnal ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656902
+#EXTINF:0,♥ OnexXxPlay Tushy ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656907
+#EXTINF:0,♥ OnexXxPlay Vixen ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656883
+#EXTINF:0,♥ OnexXxPlay Wicked ᴴᴰ
+http://jmrk.xyz:3050/Unk/cjv3xqz4pd/656900
